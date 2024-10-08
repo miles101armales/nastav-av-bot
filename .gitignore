@@ -1,0 +1,8 @@
+venv/
+*.pyc
+__pycache__/
+.env
+app/google/nice-script-413614-cb7ad51ac23d.json
+app/database/emails.csv
+app/__pycache__
+app/links.csv
