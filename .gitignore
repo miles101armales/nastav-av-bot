@@ -1,8 +1,15 @@
+# Virtual environment
 venv/
+
+# Python cache files
 *.pyc
 __pycache__/
+
+# Environment variables
 .env
-app/google/nice-script-413614-cb7ad51ac23d.json
-app/database/emails.csv
-app/__pycache__
-app/links.csv
+
+# Google credentials
+*-[a-f0-9]*.json
+
+# CSV files
+*.csv
